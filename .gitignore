@@ -1,0 +1,16 @@
+
+# IDE和缓存文件
+.idea/
+__pycache__/
+*.py[cod]
+
+# 数据/模型文件（按需添加）
+logs/
+results/
+model_data/*.weights
+*.pth
+
+# 环境相关
+venv/
+.env
+
