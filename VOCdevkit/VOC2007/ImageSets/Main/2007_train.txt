@@ -1,0 +1,600 @@
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0049.jpg 84,260,1044,520,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0051.jpg 387,125,783,184,0 79,469,970,567,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0056.jpg 131,333,888,483,0 374,542,908,681,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0058.jpg 237,519,768,605,0 331,817,678,862,0 909,789,1152,842,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0059.jpg 203,384,772,470,0 467,93,717,154,0 1015,94,1152,125,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0060.jpg 94,159,901,723,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0062.jpg 144,278,977,536,0 813,114,1125,195,0 291,68,485,102,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0069.jpg 169,217,981,584,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0071.jpg 403,643,831,726,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0078.jpg 148,348,886,668,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0082.jpg 172,217,1026,493,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0085.jpg 190,452,1023,570,0 543,293,844,338,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0094.jpg 149,345,898,534,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0097.jpg 8,468,804,663,0 59,118,380,204,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0098.jpg 231,424,965,619,0 458,9,825,87,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0101.jpg 242,534,922,645,0 906,43,1152,71,0 888,575,1151,616,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0104.jpg 88,256,1152,511,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0107.jpg 231,460,1107,590,0 934,609,1152,636,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0108.jpg 287,430,1034,579,0 579,817,794,864,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0111.jpg 186,360,1008,457,0 558,560,801,585,0 254,544,459,575,0 514,108,838,149,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0120.jpg 23,290,1051,415,0 63,1,448,36,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0122.jpg 230,529,940,689,0 8,57,450,113,0 733,22,927,61,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0134.jpg 87,374,903,542,0 1000,10,1152,61,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0135.jpg 112,320,881,412,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0143.jpg 101,282,864,551,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0147.jpg 129,521,1108,762,0 1,105,403,201,0 118,621,406,681,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0148.jpg 221,236,954,524,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0150.jpg 171,276,988,554,0 731,1,1090,73,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0164.jpg 57,370,942,596,0 1,48,329,131,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0166.jpg 115,426,956,639,0 772,155,1058,207,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0176.jpg 189,435,934,530,0 435,801,916,863,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0177.jpg 281,368,846,428,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0178.jpg 256,104,455,140,0 249,296,911,421,0 288,459,466,517,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0183.jpg 157,296,1004,561,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0187.jpg 198,511,906,648,0 481,4,761,68,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0188.jpg 189,406,1053,512,0 609,203,894,248,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0200.jpg 200,482,1001,581,0 645,35,947,81,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0202.jpg 94,315,983,471,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0203.jpg 108,331,847,525,0 106,658,675,812,0 962,569,1152,640,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0211.jpg 226,447,966,647,0 447,312,694,376,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0223.jpg 659,187,1000,238,0 186,417,1060,536,0 647,630,905,667,0 739,572,833,590,0 875,580,937,615,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0226.jpg 158,347,1061,515,0 534,574,756,614,0 583,164,822,202,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0237.jpg 130,317,959,439,0 607,278,883,317,0 130,229,321,274,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0239.jpg 238,300,991,547,0 14,319,332,406,0 117,724,405,819,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0244.jpg 240,502,901,590,0 676,170,1011,228,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0246.jpg 28,194,270,264,0 105,273,911,520,0 311,752,750,864,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0249.jpg 1,465,1022,645,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0251.jpg 122,374,907,697,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0252.jpg 43,306,1079,453,0 412,1,798,66,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0260.jpg 111,295,962,644,0 739,133,1114,222,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0261.jpg 175,288,1026,433,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0269.jpg 316,452,961,525,0 519,687,928,751,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0277.jpg 224,660,684,774,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0283.jpg 42,550,935,718,0 934,242,1127,294,0 848,729,1152,774,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0286.jpg 120,416,924,489,0 408,614,682,651,0 322,100,676,165,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0288.jpg 238,434,972,494,0 23,115,253,140,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0295.jpg 155,564,898,651,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0307.jpg 70,517,982,672,0 617,530,905,582,0 549,28,944,90,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0309.jpg 315,479,1121,652,0 944,1,1122,28,0 711,9,845,43,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0310.jpg 249,384,921,655,0 529,610,1017,815,0 21,460,294,566,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0320.jpg 183,406,1100,503,0 995,15,1152,81,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0321.jpg 183,380,1009,542,0 536,275,744,318,0 516,580,703,616,0 977,288,1149,347,0 942,605,1146,678,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0326.jpg 163,381,1001,584,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0330.jpg 527,197,790,243,0 198,504,926,668,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0333.jpg 201,368,352,455,0 244,408,996,638,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0334.jpg 100,332,883,494,0 390,330,633,376,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0335.jpg 243,450,964,542,0 243,417,472,444,0 210,2,478,48,0 272,752,470,782,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0341.jpg 194,336,832,660,0 1,1,201,55,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0342.jpg 145,361,965,609,0 407,738,969,864,0 1,690,66,742,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0344.jpg 311,546,1002,618,0 50,485,295,513,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0345.jpg 203,323,1034,467,0 759,195,1004,239,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0346.jpg 203,488,945,642,0 586,475,776,517,0 621,115,838,153,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0348.jpg 122,309,1152,520,0 110,550,422,633,0 18,1,396,52,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0352.jpg 274,108,651,202,0 412,336,939,427,0 19,670,320,715,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0354.jpg 117,424,1058,591,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0358.jpg 192,574,903,701,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0362.jpg 196,401,1087,571,0 392,86,765,165,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0364.jpg 35,365,827,574,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0365.jpg 144,391,959,566,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0367.jpg 89,158,1107,489,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0369.jpg 342,67,987,756,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0370.jpg 273,359,722,593,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0376.jpg 144,462,907,571,0 460,123,695,162,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0379.jpg 111,287,937,457,0 341,1,636,59,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0386.jpg 66,202,908,435,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0401.jpg 52,415,791,555,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0403.jpg 107,312,1074,416,0 421,603,657,627,0 441,134,698,175,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0413.jpg 162,181,802,523,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0414.jpg 222,316,886,430,0 342,11,574,48,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0429.jpg 46,410,1059,583,0 741,529,974,569,0 819,74,1084,132,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0431.jpg 49,279,907,488,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0444.jpg 175,328,908,458,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0446.jpg 161,148,535,204,0 258,571,1045,657,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0453.jpg 87,347,874,539,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0454.jpg 47,373,861,503,0 1,118,244,175,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0459.jpg 104,511,921,677,0 281,326,559,381,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0469.jpg 115,441,964,594,0 322,711,934,823,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0479.jpg 163,393,1068,493,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0493.jpg 167,465,879,553,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0495.jpg 173,354,961,489,0 527,323,789,371,0 560,690,787,731,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0503.jpg 579,340,837,457,0 348,402,1025,735,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0506.jpg 197,313,891,544,0 566,226,834,305,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0509.jpg 130,607,1019,712,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0539.jpg 140,329,961,515,0 1,272,366,336,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0540.jpg 10,270,957,481,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0545.jpg 269,407,1013,625,0 511,131,808,208,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0547.jpg 101,235,979,464,0 325,652,952,862,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0550.jpg 56,347,908,469,0 541,301,751,331,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0559.jpg 156,424,954,638,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0560.jpg 198,437,956,746,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0569.jpg 261,434,917,546,0 222,28,590,112,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0570.jpg 188,578,908,688,0 336,107,648,151,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0572.jpg 201,495,966,689,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0573.jpg 147,413,1117,534,0 571,662,829,692,0 536,175,862,233,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0578.jpg 172,416,979,552,0 603,196,799,224,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0591.jpg 286,503,966,638,0 786,432,1040,489,0 780,798,1022,860,0 758,1,1086,53,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0593.jpg 422,675,951,751,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0599.jpg 286,417,951,600,0 272,109,501,162,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0600.jpg 141,214,884,410,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0602.jpg 132,329,939,478,0 530,48,745,104,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0603.jpg 337,484,821,643,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0606.jpg 1,393,812,628,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0612.jpg 246,486,1062,788,0 140,604,396,697,0 5,43,295,142,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0617.jpg 182,338,972,545,0 480,506,696,572,0 407,91,679,162,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0618.jpg 240,399,1009,580,0 37,467,262,517,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0620.jpg 83,324,959,637,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0627.jpg 138,434,917,599,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0629.jpg 256,493,880,703,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0638.jpg 87,440,1094,566,0 549,210,915,270,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0642.jpg 92,210,937,584,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0648.jpg 320,378,1076,646,0 1,68,348,142,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0662.jpg 163,266,990,453,0 314,29,545,81,0 382,410,582,456,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0664.jpg 159,425,957,527,0 599,777,830,810,0 628,413,886,439,0 346,358,521,416,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0676.jpg 169,369,1059,549,0 235,83,584,158,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0677.jpg 151,458,1012,616,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0680.jpg 108,375,905,609,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0682.jpg 251,575,1022,748,0 139,537,423,608,0 33,21,382,56,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0692.jpg 144,275,987,462,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0699.jpg 309,273,949,674,0 363,283,566,365,0 354,629,553,681,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0701.jpg 158,464,998,617,0 521,91,853,170,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0703.jpg 272,431,675,508,0 118,520,1060,708,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0706.jpg 155,338,1017,586,0 369,60,759,158,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0709.jpg 94,173,991,547,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0713.jpg 203,418,965,642,0 371,429,644,517,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0718.jpg 58,485,882,741,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0731.jpg 121,513,856,640,0 417,125,722,165,0 437,523,665,561,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0735.jpg 161,379,999,507,0 477,374,673,412,0 460,674,642,709,0 468,1,696,35,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0739.jpg 149,338,908,415,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0740.jpg 160,270,926,453,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0748.jpg 243,485,971,660,0 395,300,737,367,0 452,811,675,863,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0749.jpg 108,264,1152,438,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0756.jpg 674,343,955,422,0 170,422,922,683,0 612,705,843,788,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0765.jpg 158,437,1016,678,0 643,762,851,822,0 678,425,917,488,0 714,7,1028,84,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0777.jpg 283,301,1003,657,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0778.jpg 250,201,904,491,0 369,1,538,38,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0780.jpg 183,498,1019,690,0 398,316,690,385,0 446,682,723,744,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0782.jpg 32,440,1029,590,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0783.jpg 167,362,914,461,0 419,456,638,485,0 356,23,614,74,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0784.jpg 117,437,949,692,0 752,555,974,633,0 845,104,1105,174,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0785.jpg 496,268,771,314,0 102,538,1006,622,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0786.jpg 225,281,872,687,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0792.jpg 82,431,865,639,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0793.jpg 67,406,1121,499,0 806,569,1099,618,0 829,61,1152,114,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0798.jpg 191,287,993,457,0 565,90,871,139,0 535,488,789,551,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0799.jpg 179,469,822,615,0 1,56,244,105,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0802.jpg 1,1,244,80,0 185,488,897,695,0 75,419,308,485,0 198,725,416,784,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0820.jpg 187,608,911,697,0 271,181,522,209,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0822.jpg 123,412,970,559,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0823.jpg 279,245,915,555,0 1,655,515,841,0 719,397,879,572,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0824.jpg 179,386,942,516,0 261,700,495,728,0 168,338,439,384,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0834.jpg 437,454,846,552,0 494,810,616,864,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0842.jpg 42,400,993,501,0 571,148,902,173,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0844.jpg 158,261,993,396,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0846.jpg 132,354,974,595,0 554,54,866,122,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0849.jpg 1,452,1152,706,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0850.jpg 1,112,1152,523,0 405,610,885,770,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0851.jpg 138,1,966,488,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0852.jpg 182,378,942,551,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0856.jpg 216,410,994,531,0 581,374,828,410,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0863.jpg 87,425,945,576,0 533,434,735,481,0 510,55,731,108,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0864.jpg 309,374,964,528,0 894,572,1044,788,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0868.jpg 116,356,944,485,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0869.jpg 188,404,963,621,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0874.jpg 101,330,928,497,0 494,203,818,273,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0878.jpg 259,459,963,681,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0879.jpg 176,418,872,760,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0883.jpg 139,472,945,567,0 527,206,768,240,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0890.jpg 132,389,963,535,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0895.jpg 177,440,1000,662,0 898,432,1144,500,0 918,1,1152,50,0 861,774,1077,847,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0902.jpg 187,445,1044,546,0 561,79,874,123,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0903.jpg 51,352,127,688,0 515,213,616,763,0 884,384,939,710,0 850,1,933,224,0 103,1,207,198,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0907.jpg 149,365,1072,506,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0908.jpg 187,457,942,649,0 97,518,416,608,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0913.jpg 115,395,916,538,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0923.jpg 106,368,837,500,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0924.jpg 140,438,870,595,0 488,706,1065,838,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0926.jpg 151,227,981,366,0 257,225,540,270,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0932.jpg 356,300,929,498,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0933.jpg 151,409,935,606,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0942.jpg 124,434,917,603,0 251,148,547,209,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0943.jpg 156,281,1032,548,0 217,607,773,777,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0950.jpg 374,539,859,658,0 326,305,564,330,0 284,1,630,60,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0951.jpg 201,505,994,684,0 217,183,475,229,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0953.jpg 253,338,780,481,0 1,34,246,69,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0972.jpg 149,338,999,469,0 643,1,905,40,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0976.jpg 396,400,942,528,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0977.jpg 150,465,944,629,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/0979.jpg 176,466,989,676,0 732,341,939,391,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1000.jpg 122,424,1008,594,0 243,1,560,53,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1003.jpg 181,477,987,768,0 679,103,993,190,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1010.jpg 147,442,920,533,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1015.jpg 15,241,870,337,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1018.jpg 162,100,581,193,0 134,337,889,484,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1023.jpg 544,517,1001,717,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1033.jpg 153,331,1129,495,0 283,666,944,801,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1041.jpg 158,447,922,566,0 443,745,936,814,0 1,571,202,729,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1045.jpg 72,288,930,650,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1052.jpg 201,480,824,609,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1055.jpg 149,433,857,559,0 621,103,890,148,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1056.jpg 624,235,952,323,0 234,420,1077,625,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1058.jpg 199,451,1002,559,0 503,303,699,337,0 530,592,701,623,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1063.jpg 286,179,1089,424,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1070.jpg 251,516,865,581,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1072.jpg 129,510,858,784,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1074.jpg 180,338,948,626,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1075.jpg 207,476,994,551,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1077.jpg 214,288,879,518,0 528,490,1001,677,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1080.jpg 182,387,967,558,0 331,53,828,148,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1087.jpg 216,246,1001,417,0 164,27,440,70,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1100.jpg 395,542,937,687,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1102.jpg 192,470,922,659,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1104.jpg 354,402,661,483,0 236,464,1033,677,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1106.jpg 146,408,1058,514,0 123,232,422,268,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1119.jpg 215,223,926,488,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1123.jpg 147,479,1062,638,0 295,20,617,90,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1127.jpg 190,322,835,691,0 323,274,565,324,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1128.jpg 265,493,995,588,0 401,2,632,38,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1142.jpg 130,431,1052,544,0 334,108,590,149,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1143.jpg 166,323,798,462,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1145.jpg 164,427,844,577,0 932,57,1105,276,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1148.jpg 79,374,1009,541,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1170.jpg 146,511,928,614,0 350,1,729,46,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1181.jpg 141,596,769,671,0 160,455,415,486,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1189.jpg 146,410,962,594,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1191.jpg 204,588,653,708,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1192.jpg 196,397,967,489,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1196.jpg 72,202,933,375,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1211.jpg 176,341,905,652,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1213.jpg 68,491,1011,671,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1214.jpg 167,252,922,385,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1233.jpg 203,367,953,619,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1238.jpg 238,489,1152,614,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1247.jpg 312,571,865,660,0 688,325,923,369,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1262.jpg 165,393,964,545,0 201,22,498,76,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1268.jpg 82,548,1049,644,0 749,293,1152,336,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1271.jpg 133,584,994,710,0 463,459,767,510,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1281.jpg 179,403,1129,590,0 460,243,723,300,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1292.jpg 227,331,927,697,0 644,213,931,360,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1302.jpg 208,371,940,509,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1303.jpg 763,368,1052,404,0 158,524,979,645,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1345.jpg 129,403,927,528,0 291,30,566,79,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1347.jpg 193,360,975,531,0 698,315,907,365,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1361.jpg 208,355,772,488,0 178,115,526,195,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1364.jpg 88,458,1077,697,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1366.jpg 204,453,1055,678,0 562,258,795,305,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1367.jpg 36,203,1123,582,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1374.jpg 172,233,1080,597,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1378.jpg 76,364,944,503,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1379.jpg 165,403,850,509,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1380.jpg 217,426,874,545,0 345,794,784,864,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1385.jpg 139,367,822,466,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1388.jpg 261,352,922,485,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1400.jpg 179,431,961,536,0 498,53,833,108,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1401.jpg 94,343,853,505,0 597,1,923,92,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1404.jpg 58,218,1086,504,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1408.jpg 286,262,1044,591,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1414.jpg 235,303,1042,688,0 362,549,552,648,0 283,271,512,375,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1415.jpg 62,353,921,578,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1416.jpg 123,385,920,564,0 843,146,1152,214,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1419.jpg 183,434,961,584,0 297,745,502,787,0 271,422,502,466,0 225,16,524,72,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1420.jpg 97,368,937,495,0 596,479,829,513,0 550,48,877,109,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1424.jpg 148,458,1035,556,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1425.jpg 243,486,1061,671,0 912,500,1152,569,0 977,84,1152,134,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1427.jpg 239,310,699,506,0 608,167,864,237,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1428.jpg 93,367,919,550,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1433.jpg 175,375,944,754,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1434.jpg 414,410,987,511,0 286,156,516,199,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1437.jpg 150,403,868,487,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1446.jpg 29,263,930,653,0 231,430,544,557,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1456.jpg 241,560,1018,724,0 471,160,791,236,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1465.jpg 132,390,991,595,0 460,46,681,102,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1472.jpg 282,314,962,485,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1479.jpg 218,436,959,623,0 544,7,847,81,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1486.jpg 158,383,893,561,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1488.jpg 100,381,928,524,0 525,707,739,741,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1490.jpg 192,275,1068,645,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1492.jpg 216,403,943,663,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1496.jpg 51,344,1122,559,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1500.jpg 230,527,918,599,0 125,186,380,208,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1503.jpg 122,425,988,567,0 504,152,818,213,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1504.jpg 167,331,1031,412,0 367,522,621,551,0 326,1,606,42,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1507.jpg 1,245,383,328,0 837,246,1152,346,0 320,396,507,429,0 730,410,886,466,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1522.jpg 233,333,879,474,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1527.jpg 381,367,943,553,0 158,215,489,293,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1532.jpg 153,396,887,816,0 279,377,535,514,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1538.jpg 183,438,1044,581,0 650,151,926,203,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1545.jpg 87,427,1080,544,0 611,606,972,642,0 665,59,1063,132,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1546.jpg 193,266,275,631,0 496,176,594,721,0 1011,228,1066,574,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1548.jpg 181,232,274,614,0 499,117,590,676,0 1030,287,1081,647,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1567.jpg 272,282,1036,375,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1581.jpg 72,464,1102,591,0 999,757,1152,803,0 1016,151,1152,189,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1583.jpg 16,391,933,620,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1584.jpg 157,508,1040,607,0 393,762,622,788,0 391,445,653,483,0 363,52,722,125,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1585.jpg 169,496,1012,663,0 321,417,651,481,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1588.jpg 124,412,903,624,0 125,1,457,89,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1590.jpg 65,454,1122,738,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1592.jpg 182,518,955,641,0 565,266,774,311,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1593.jpg 96,402,1107,551,0 548,125,780,174,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1608.jpg 241,174,685,483,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1617.jpg 297,313,935,415,0 399,681,908,783,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1621.jpg 172,591,858,759,0 303,261,581,316,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1622.jpg 233,442,894,691,0 637,64,983,174,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1624.jpg 189,470,946,546,0 474,97,803,136,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1634.jpg 41,242,1152,448,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1639.jpg 9,456,852,563,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1654.jpg 244,477,825,600,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1659.jpg 287,238,796,508,0 591,531,1000,748,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1670.jpg 137,432,1137,677,0 568,195,986,293,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1683.jpg 181,417,904,532,0 123,196,508,283,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1698.jpg 135,144,940,323,0 594,596,1152,724,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1699.jpg 26,392,1106,511,0 772,1,1152,82,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1709.jpg 180,397,940,609,0 549,139,801,209,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1711.jpg 230,467,953,559,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1712.jpg 177,558,858,701,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1714.jpg 296,393,932,478,0 1,449,240,503,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1717.jpg 160,429,1033,524,0 297,664,564,693,0 262,166,605,217,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1729.jpg 289,455,1059,604,0 468,546,973,670,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1731.jpg 16,281,877,583,0 901,70,1152,157,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1733.jpg 123,424,810,549,0 140,1,419,48,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1751.jpg 275,420,1077,607,0 656,251,986,334,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1767.jpg 139,240,857,364,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1775.jpg 161,449,1051,576,0 351,217,769,287,0 416,769,787,830,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1778.jpg 175,283,846,546,0 228,650,443,783,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1784.jpg 150,441,906,566,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1794.jpg 240,341,989,531,0 465,68,876,170,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1797.jpg 155,444,814,528,0 333,795,834,861,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1802.jpg 118,360,937,504,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1805.jpg 183,504,913,684,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1816.jpg 85,470,885,721,0 939,512,1152,590,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1835.jpg 227,403,803,510,0 57,82,377,154,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1845.jpg 87,313,1022,532,0 554,542,849,619,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1851.jpg 187,488,927,600,0 899,660,996,863,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1871.jpg 170,402,1070,490,0 804,62,1050,106,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1876.jpg 165,376,936,555,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1878.jpg 195,493,970,602,0 327,155,546,193,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1880.jpg 189,476,969,636,0 651,284,951,335,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1890.jpg 188,438,871,609,0 329,550,772,676,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1893.jpg 162,403,994,648,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1897.jpg 191,155,1102,771,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1899.jpg 21,358,944,458,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1907.jpg 178,386,900,500,0 175,223,382,263,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1909.jpg 196,367,881,597,0 456,30,826,133,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1924.jpg 127,266,1020,510,0 839,335,1112,411,0 737,695,957,760,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1932.jpg 40,346,868,530,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1938.jpg 248,181,683,485,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1940.jpg 137,583,873,778,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1955.jpg 49,346,958,510,0 548,1,951,70,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1965.jpg 217,391,1152,730,0 516,681,1013,864,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1967.jpg 286,296,977,456,0 158,563,655,689,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1989.jpg 228,481,1020,634,0 326,305,553,344,0 363,693,587,740,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/1999.jpg 85,405,987,556,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2000.jpg 134,559,883,646,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2005.jpg 87,298,988,518,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2008.jpg 198,530,1009,703,0 515,110,772,167,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2018.jpg 244,512,989,628,0 262,231,601,293,0 329,607,596,644,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2027.jpg 50,560,997,644,0 752,217,1111,278,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2028.jpg 76,110,1136,368,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2039.jpg 104,354,851,603,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2042.jpg 192,469,981,639,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2047.jpg 125,428,1065,606,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2052.jpg 161,460,961,687,0 702,260,917,315,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2053.jpg 121,718,798,821,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2060.jpg 260,331,1037,605,0 1,33,325,107,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2062.jpg 275,324,1026,484,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2079.jpg 257,363,1129,704,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2086.jpg 297,254,1068,381,0 800,547,1152,613,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2104.jpg 269,443,786,506,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2113.jpg 260,476,1034,620,0 644,672,912,725,0 592,212,922,277,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2131.jpg 95,228,979,507,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2134.jpg 101,396,872,570,0 413,78,771,139,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2155.jpg 139,410,922,687,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2156.jpg 219,525,944,637,0 281,207,514,253,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2170.jpg 165,344,979,447,0 343,176,599,203,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2171.jpg 69,378,783,612,0 251,1,527,86,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2173.jpg 165,380,1001,605,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2180.jpg 102,260,902,447,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2210.jpg 174,410,934,644,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2211.jpg 173,433,986,538,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2224.jpg 179,381,865,468,0 343,703,860,760,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2225.jpg 117,404,991,630,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2226.jpg 369,431,1025,633,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2236.jpg 179,218,881,453,0 174,369,421,442,0 273,691,486,757,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2244.jpg 192,364,1032,557,0 467,547,739,613,0 444,104,789,181,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2257.jpg 164,432,915,575,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2259.jpg 229,359,964,567,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2261.jpg 254,210,985,601,0 685,117,930,245,0 632,493,830,602,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2270.jpg 291,370,931,590,0 65,667,588,864,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2274.jpg 197,410,923,531,0 816,42,1075,93,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2277.jpg 208,339,886,527,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2292.jpg 130,254,1009,386,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2296.jpg 15,395,1035,469,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2306.jpg 304,338,965,413,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2307.jpg 62,584,829,732,0 333,796,911,863,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2311.jpg 310,226,1061,362,0 357,30,644,81,0 337,453,564,497,0 313,810,524,853,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2313.jpg 149,325,841,623,0 142,437,456,570,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2314.jpg 29,191,950,493,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2318.jpg 35,364,1081,607,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2319.jpg 297,325,1003,515,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2323.jpg 489,567,1033,632,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2337.jpg 337,521,1077,745,0 385,126,718,183,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2338.jpg 241,381,922,522,0 272,67,645,113,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2341.jpg 72,217,1037,556,0 21,553,748,817,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2344.jpg 144,390,957,488,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2349.jpg 48,422,894,573,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2354.jpg 44,440,1015,718,0 1,33,186,100,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2356.jpg 207,535,891,623,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2358.jpg 177,494,883,576,0 401,198,734,246,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2372.jpg 152,455,992,580,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2380.jpg 54,436,922,598,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2396.jpg 182,442,928,601,0 531,206,770,250,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2398.jpg 158,447,940,594,0 537,9,895,82,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2400.jpg 143,239,714,649,0 177,192,395,323,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2405.jpg 173,498,1036,589,0 554,291,867,345,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2421.jpg 467,350,1003,431,0 379,69,699,113,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2423.jpg 246,375,939,608,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2424.jpg 188,420,1137,690,0 661,9,1152,105,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2428.jpg 172,223,1115,664,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2447.jpg 115,313,1151,400,0 392,655,801,703,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2455.jpg 289,438,1018,550,0 1,201,125,238,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2459.jpg 105,338,955,503,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2472.jpg 160,403,989,573,0 493,541,793,608,0 494,32,887,117,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2483.jpg 132,344,949,598,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2484.jpg 288,475,925,611,0 372,246,618,274,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2488.jpg 84,325,1133,468,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2493.jpg 199,416,1088,642,0 872,134,1152,208,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2496.jpg 115,169,959,753,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2501.jpg 82,331,997,536,0 399,108,629,165,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2512.jpg 425,357,847,429,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2513.jpg 115,427,907,691,0 251,127,555,204,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2514.jpg 244,410,931,620,0 453,303,687,365,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2527.jpg 192,488,913,673,0 707,417,931,474,0 738,14,1041,85,0 658,735,865,794,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2528.jpg 110,402,828,496,0 332,262,559,300,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2531.jpg 130,364,961,605,0 875,57,1152,118,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2538.jpg 136,252,977,519,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2544.jpg 206,523,976,721,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2565.jpg 49,472,859,574,0 404,178,774,217,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2566.jpg 237,381,991,597,0 73,48,422,147,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2574.jpg 214,439,775,606,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2597.jpg 290,244,1072,353,0 404,135,644,172,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2600.jpg 222,362,939,508,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2604.jpg 458,9,901,147,0 144,346,1017,610,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2612.jpg 215,411,979,763,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2632.jpg 57,394,1001,528,0 715,522,944,549,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2639.jpg 447,347,800,489,0 281,477,554,582,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2642.jpg 200,469,834,634,0 263,174,594,243,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2645.jpg 165,354,958,674,0 418,180,612,253,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2657.jpg 122,373,851,492,0 425,51,859,111,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2660.jpg 128,482,922,614,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2666.jpg 82,383,997,530,0 615,1,907,35,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2667.jpg 101,371,1046,493,0 761,688,943,732,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2678.jpg 182,442,997,588,0 438,1,784,71,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2682.jpg 236,538,1034,753,0 768,460,1021,517,0 881,1,1152,62,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2690.jpg 327,373,1096,560,0 578,52,829,102,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2708.jpg 158,381,766,476,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2729.jpg 285,458,901,556,0 598,289,794,320,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2744.jpg 76,115,1023,533,0 624,281,836,375,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2752.jpg 146,453,940,619,0 724,111,1005,160,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2754.jpg 181,347,1005,480,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2758.jpg 31,531,946,622,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2761.jpg 175,182,990,438,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2770.jpg 189,386,922,534,0 89,329,392,382,0 185,704,449,761,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2775.jpg 252,434,887,549,0 194,640,654,715,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2779.jpg 187,374,960,560,0 481,467,756,537,0 454,1,820,53,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2785.jpg 212,460,777,571,0 422,746,884,849,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2802.jpg 224,273,1081,392,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2819.jpg 268,477,1139,673,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2829.jpg 125,313,959,421,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2830.jpg 225,276,894,453,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2832.jpg 280,573,908,642,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2836.jpg 59,276,994,459,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2855.jpg 131,376,863,565,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2860.jpg 108,279,1079,363,0 446,45,848,81,0 457,501,757,533,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2873.jpg 240,332,949,573,0 438,181,658,255,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2878.jpg 219,345,1002,617,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2879.jpg 328,154,883,581,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2887.jpg 323,410,922,467,0 481,126,879,174,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2893.jpg 40,267,1028,524,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2898.jpg 331,288,1059,670,0 439,188,652,245,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2899.jpg 158,501,987,688,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2901.jpg 167,425,995,597,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2928.jpg 255,207,981,626,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2933.jpg 268,519,744,612,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2936.jpg 42,389,1009,537,0 528,124,1047,201,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2937.jpg 222,450,994,524,0 265,101,496,145,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2956.jpg 191,538,1001,650,0 137,785,700,864,0 949,690,1152,830,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2964.jpg 29,400,922,550,0 414,64,770,148,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2966.jpg 303,449,859,535,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2970.jpg 133,412,932,543,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2976.jpg 153,426,1064,630,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2983.jpg 175,510,987,595,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2984.jpg 167,273,996,558,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2990.jpg 194,345,1017,452,0 1,49,429,118,0 79,555,432,620,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/2993.jpg 201,376,994,628,0 761,23,1134,146,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3002.jpg 174,400,982,502,0 397,356,650,397,0 396,713,626,743,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3003.jpg 177,562,970,634,0 158,211,601,275,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3016.jpg 160,320,864,412,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3019.jpg 204,280,914,415,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3024.jpg 167,446,961,583,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3030.jpg 162,402,937,531,0 137,92,507,163,0 232,557,508,607,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3043.jpg 279,427,861,552,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3044.jpg 349,474,907,568,0 601,695,1055,784,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3047.jpg 86,440,990,567,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3048.jpg 200,478,973,703,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3066.jpg 158,521,903,625,0 397,517,603,547,0 372,118,615,139,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3070.jpg 45,464,967,714,0 710,16,1112,133,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3072.jpg 165,297,1036,397,0 675,47,947,85,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3075.jpg 182,454,985,601,0 947,1,1152,33,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3092.jpg 168,539,997,658,0 200,181,444,224,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3093.jpg 504,476,977,757,0 448,508,654,623,0 376,78,658,156,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3097.jpg 37,483,1035,598,0 456,491,731,516,0 381,73,764,129,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3109.jpg 490,111,794,171,0 163,603,1111,758,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3114.jpg 186,376,1000,609,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3140.jpg 149,552,978,703,0 182,474,377,507,0 129,116,380,163,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3144.jpg 106,312,843,641,0 859,194,1151,303,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3145.jpg 101,212,815,641,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3157.jpg 117,258,1017,479,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3161.jpg 181,460,974,579,0 446,117,703,153,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3163.jpg 51,574,954,673,0 1,230,170,271,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3169.jpg 251,447,770,539,0 344,603,683,681,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3173.jpg 171,442,882,553,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3182.jpg 181,403,1008,585,0 515,27,745,76,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3184.jpg 181,436,884,611,0 247,58,463,102,0 279,421,475,469,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3195.jpg 87,286,852,518,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3200.jpg 191,471,995,603,0 357,1,721,53,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3207.jpg 93,365,940,531,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3218.jpg 205,339,1069,607,0 858,76,1152,159,0 736,693,931,761,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3222.jpg 1,543,1140,691,0 722,286,1152,345,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3229.jpg 74,357,1086,610,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3234.jpg 192,408,939,586,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3239.jpg 146,376,957,546,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3243.jpg 11,269,850,655,0 344,642,702,816,0 1,653,213,796,0 496,44,698,127,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3251.jpg 148,357,972,508,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3254.jpg 66,459,994,624,0 534,235,921,288,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3280.jpg 230,246,897,423,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3284.jpg 221,381,872,453,0 423,20,751,79,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3296.jpg 82,468,962,648,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3299.jpg 166,404,977,606,0 646,254,867,315,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3309.jpg 79,345,938,436,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3313.jpg 42,448,933,571,0 457,68,725,95,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3326.jpg 248,446,1097,561,0 665,245,892,277,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3352.jpg 71,236,947,513,0 137,170,439,266,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3357.jpg 220,441,955,657,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3363.jpg 208,394,953,556,0 496,74,788,134,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3366.jpg 1,433,907,517,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3369.jpg 182,272,967,424,0 476,666,692,716,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3378.jpg 196,503,1013,595,0 157,95,517,153,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3388.jpg 182,344,887,542,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3392.jpg 158,230,981,556,0 708,142,932,224,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3399.jpg 214,476,957,680,0 567,230,873,304,0 572,632,808,690,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3401.jpg 55,405,1056,525,0 320,734,572,767,0 254,389,537,437,0 297,1,522,43,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3406.jpg 161,288,895,445,0 208,198,519,271,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3414.jpg 227,472,1137,661,0 204,636,397,673,0 106,170,319,214,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3416.jpg 131,442,797,667,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3417.jpg 122,263,1078,621,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3418.jpg 150,331,1079,484,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3424.jpg 66,411,833,614,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3425.jpg 299,516,697,687,0 1,253,250,304,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3430.jpg 79,409,887,552,0 75,125,372,178,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3432.jpg 281,353,1064,517,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3438.jpg 225,294,969,467,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3449.jpg 182,413,821,753,0 379,1,612,76,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3457.jpg 113,445,1115,546,0 878,302,1152,337,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3459.jpg 236,578,929,683,0 331,361,637,424,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3468.jpg 70,377,822,518,0 256,3,657,72,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3485.jpg 127,306,1152,627,0 165,610,554,724,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3495.jpg 140,240,913,499,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3501.jpg 287,365,787,474,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3506.jpg 94,460,920,551,0 423,380,698,412,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3516.jpg 201,388,962,623,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3519.jpg 195,460,991,694,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3527.jpg 120,510,907,758,0 58,205,369,288,0 123,791,372,863,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3535.jpg 188,362,1018,474,0 698,79,994,128,0 670,581,943,623,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3539.jpg 199,403,960,691,0 729,38,1139,134,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3546.jpg 168,248,851,449,0 198,467,533,567,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3554.jpg 166,448,965,553,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3559.jpg 80,284,1023,488,0 129,86,581,199,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3566.jpg 145,439,922,524,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3588.jpg 136,390,980,602,0 472,40,716,102,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3598.jpg 223,369,957,631,0 128,427,360,499,0 100,15,340,55,0
+C:\Users\¹ù\Desktop\YoloV4_Insulators-main/VOCdevkit/VOC2007/JPEGImages/images/3616.jpg 58,331,934,505,0

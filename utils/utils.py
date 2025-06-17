@@ -134,7 +134,8 @@ class DecodeBox(nn.Module):
         output = torch.cat((pred_boxes.view(batch_size, -1, 4) * _scale,
                             conf.view(batch_size, -1, 1), pred_cls.view(batch_size, -1, self.num_classes)), -1)
         return output.data
-        
+
+
 def letterbox_image(image, size):
     iw, ih = image.size
     w, h = size
@@ -171,9 +172,6 @@ def yolo_correct_boxes(top, left, bottom, right, input_shape, image_shape):
     return boxes
 
 def bbox_iou(box1, box2, x1y1x2y2=True):
-    """
-        计算IOU
-    """
     if not x1y1x2y2:
         b1_x1, b1_x2 = box1[:, 0] - box1[:, 2] / 2, box1[:, 0] + box1[:, 2] / 2
         b1_y1, b1_y2 = box1[:, 1] - box1[:, 3] / 2, box1[:, 1] + box1[:, 3] / 2

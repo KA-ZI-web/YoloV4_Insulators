@@ -13,6 +13,7 @@ classes = ["insulator"]
 
 '''核心转换函数'''
 def convert_annotation(year, image_id, list_file):
+    #voc格式所在路径
     in_file = open('VOCdevkit/VOC%s/Annotations/labels/%s.xml'%(year, image_id))
     # 使用ElementTree（库）解析XML文件
     tree=ET.parse(in_file)
@@ -31,7 +32,10 @@ def convert_annotation(year, image_id, list_file):
         #坐标转换
         cls_id = classes.index(cls)#获取ID
         xmlbox = obj.find('bndbox')
-        b = (int(xmlbox.find('xmin').text), int(xmlbox.find('ymin').text), int(xmlbox.find('xmax').text), int(xmlbox.find('ymax').text))
+        b = (int(xmlbox.find('xmin').text),
+             int(xmlbox.find('ymin').text),
+             int(xmlbox.find('xmax').text),
+             int(xmlbox.find('ymax').text))
         list_file.write(" " + ",".join([str(a) for a in b]) + ',' + str(cls_id))
 
 wd = getcwd()
