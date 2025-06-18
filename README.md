@@ -31,13 +31,8 @@ YOLOv4网络结构分为四部分：
 4. **头部网络(Head)**：基于YOLOv3设计，用于预测目标种类和位置，采用CIoU_Loss作为损失函数，使用DIoU_nms筛选预测框。
 
 ### （二）核心技术
-1. **CIoU_Loss**：在IoU基础上考虑目标框中心点距离和长宽比，公式为：
-    $$ v = \frac{4(\tan^{-1}\frac{w_G}{h_G} - \tan^{-1}\frac{w_P}{h_P})^2}{\pi^2} $$
-    $$ \alpha = \frac{v}{(1 - IoU) + v} $$
-    $$ CIoU = IoU - \frac{d^2}{c^2} - \alpha v $$
-    $$ Loss_{CIoU} = 1 - IoU + \frac{d^2}{c^2} + \alpha v $$
-2. **DIoU_nms**：在NMS中考虑预测框与真实框中心点距离，公式为：
-    $$ DIoU = IoU - \frac{\rho^2(b, b^{gt})}{c^2} = IoU - \frac{d^2}{c^2} $$
+1. **CIoU_Loss**：在IoU基础上考虑目标框中心点距离和长宽比
+2. **DIoU_nms**：在NMS中考虑预测框与真实框中心点距离
 
 ## 四、模型训练
 ### （一）非极大值抑制（NMS）
@@ -54,6 +49,8 @@ YOLOv4网络结构分为四部分：
 
 ### （四）模型评估
 使用测试集计算准确率、召回率等指标，可视化检测结果。
+![01](https://github.com/user-attachments/assets/0a47c5b5-4378-4b3a-8a4f-4866a8d2d217)
+![02](https://github.com/user-attachments/assets/89651f99-137c-48a3-9b54-ff09c72c44b9)
 
 ## 五、结论与展望
 ### （一）结论
