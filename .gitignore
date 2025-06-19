@@ -3,12 +3,15 @@
 .idea/
 __pycache__/
 *.py[cod]
+yolov4_insulators.egg-info/
 
 # 数据/模型文件（按需添加）
 logs/
 results/
 model_data/*.weights
 *.pth
+VOCdevkit/
+img/
 
 # 环境相关
 venv/

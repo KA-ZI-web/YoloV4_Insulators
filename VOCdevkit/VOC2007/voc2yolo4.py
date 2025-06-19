@@ -4,8 +4,8 @@
 import os
 import random 
  
-xmlfilepath=r'./VOCdevkit/VOC2007/Annotations/labels'#标注文件（xml文件）地址
-saveBasePath=r"./VOCdevkit/VOC2007/ImageSets/Main/"#输出文件地址
+xmlfilepath=r'./Annotations/labels'#标注文件（xml文件）地址
+saveBasePath=r"./ImageSets/Main/"#输出文件地址
 
 #数据集较小所以全部用来当做测试集，这样生成的文件中val.txt（验证集）和test.txt（测试集）文件为空
 trainval_percent=1#100%训练

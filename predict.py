@@ -8,7 +8,7 @@ import cv2
 yolo = YOLO()
 
 #输入输出路径
-input_Path = "img/0591.jpg"
+input_Path = "img/0823.jpg"
 output_dir = "./results"
 output_Path = os.path.join(output_dir,"01.jpg")
 
